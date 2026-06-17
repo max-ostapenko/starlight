@@ -1,5 +1,11 @@
 # @astrojs/starlight
 
+## 0.40.1
+
+### Patch Changes
+
+- [#3953](https://github.com/withastro/starlight/pull/3953) [`a935d33`](https://github.com/withastro/starlight/commit/a935d334c193fb452f72453ea1bf38807d415077) Thanks [@HiDeoo](https://github.com/HiDeoo)! - Fixes Starlight Markdown processing being potentially applied to files that should not be processed.
+
 ## 0.40.0
 
 ### Minor Changes
